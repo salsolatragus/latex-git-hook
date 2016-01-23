@@ -1,10 +1,10 @@
 # latex-git-hook
 
-Git commit hook to ensure latex documents are up-to-date. Checks documents on all levels of the repository, given that both '<document>.pdf' and '<document>.tex' exist.
+Git commit hook to ensure latex documents are up-to-date. Checks documents on all levels of the repository, given that both `<document>.pdf` and `<document>.tex` exist.
 
 # Setup
 
-Either copy this script to '<repo>/.git/hooks/pre-commit' or link it there. Make sure it's executable.
+Either copy this script to `<repo>/.git/hooks/pre-commit` or link it there. Make sure it's executable.
 
 # Credits
 
